@@ -1,0 +1,58 @@
+﻿Build started 10/5/2021 11:03:17 AM.
+     1>Project "C:\Users\Shamim Molla\Desktop\GAMEO\Getting Through It\FP\FP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Vs code\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\igraphics.h(111): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\loadgame.h(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\loadgame.h(18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\loadgame.h(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\loadgame.h(25): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\showstatistics.h(14): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\showstatistics.h(17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\showstatistics.h(19): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\drawgamestates.h(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\drawgamestates.h(12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\drawgamestates.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\drawgamestates.h(71): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\drawgamestates.h(73): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\drawgamestates.h(101): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\drawgamestates.h(107): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\main.cpp(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\main.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\main.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs code\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\main.cpp(181): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\vs code\vc\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\main.cpp(182): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\vs code\vc\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\main.cpp(183): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\vs code\vc\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\shamim molla\desktop\gameo\getting through it\fp\main.cpp(193): warning C4390: ';' : empty controlled statement found; is this the intent?
+       Link:
+         D:\Vs code\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shamim Molla\Desktop\GAMEO\Getting Through It\Debug\FP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Shamim Molla\Desktop\GAMEO\Getting Through It\Debug\FP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shamim Molla\Desktop\GAMEO\Getting Through It\Debug\FP.lib" /MACHINE:X86 Debug\main.obj
+         glaux.lib
+         glut32.lib
+         FP.vcxproj -> C:\Users\Shamim Molla\Desktop\GAMEO\Getting Through It\Debug\FP.exe
+     1>Done Building Project "C:\Users\Shamim Molla\Desktop\GAMEO\Getting Through It\FP\FP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.72
